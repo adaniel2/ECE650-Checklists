@@ -45,7 +45,7 @@ Post @177 also seems to confirm this assumption, saying we won't be tested for t
 - [ ] An isolated vertex should still output the shortest path if valid, e.g. for the isolated vertex 7, "s 7 7" should output "7". A properly implemented algorithm will cover this naturally. @139
 - [ ] Make sure code runs on eceubuntu servers. This will also confirm what STL/other imports are acceptable. @135
 
-**Note:** If you were having issues on eceterm, try eceubuntu (and use a VPN if off-campus)
+If you were having issues on eceterm, try eceubuntu (and use a VPN if off-campus)
 
 - [ ] int is enough for number of vertices defined by V. @134
 - [ ] Make sure your program can take .in file and output a .out file @122
@@ -56,4 +56,4 @@ All in all, I hope this checklist helps. I also think the TA's should start a ma
 
 **Disclaimer:** This checklist, derived from questions on Piazza, may not capture all potential uncertainties or clarifications - although it tries to. Always exercise due diligence by referring to the official assignment .pdf and checking Piazza regularly.
 
-GitHub: https://github.com/adaniel2/ECE650-Checklists
+Download a .pdf or .md version of this checklist: https://github.com/adaniel2/ECE650-Checklists
